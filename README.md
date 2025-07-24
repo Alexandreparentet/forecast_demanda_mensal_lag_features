@@ -31,4 +31,4 @@ Este projeto utiliza dados de pedidos, produtos e preços para prever a demanda 
 
 - ---
 
-📌 Projeto desenvolvido como parte de portfólio em Ciência de Dados com foco em previsão temporal baseada em lags.
+📌 Projeto desenvolvido com a colaboração do Professor da Unichristus: **Pedro Bandeira** na etapa de imersão do Programa Residência em TIC-20 - Capacita Brasil/C-Jovem como parte de portfólio em Ciência de Dados com foco em previsão temporal baseada em lags.
